@@ -1,0 +1,49 @@
+===============-[ VPN LEGASI Premium Script ]-==============
+
+------------------------------------------------------------
+                   Service & Port Information               
+------------------------------------------------------------
+                             OpenVPN                        
+------------------------------------------------------------
+   - OpenSSH                 : 22
+   - SSH Websocket           : 80,8080 [OFF]
+   - SSH SSL Websocket       : 443
+   - Stunnel4                : 447, 777
+   - Dropbear                : 109, 143
+   - Badvpn                  : 7100-7900
+   - Nginx                   : 81
+   - Squid                   : 8000
+   - OHP                     : 8000
+------------------------------------------------------------
+                            XRAY HTTPS                      
+------------------------------------------------------------
+   - XRAY  Vless TLS         : 443
+   - XRAY  Vless HttpUpgrade : 443
+   - XRAY  Vless Xhttp       : 443
+   - XRAY  Vless gRPC        : 443
+------------------------------------------------------------
+                            XRAY HTTP                       
+------------------------------------------------------------
+   - XRAY  Vless None TLS    : 80,8080
+   - XRAY  Vless HttpUpgrade : 80,8080
+   - XRAY  Vless Xhttp       : 80,8080
+
+------------------------------------------------------------
+               Server Information & Other Features          
+------------------------------------------------------------
+   - Timezone                : Asia/Kuala_Lumpur (GMT +8)
+   - Auto Backup Status      : [OFF]
+   - Fail2Ban                : [ON]
+   - Dflate                  : [ON]
+   - IPtables                : [ON]
+   - IPv6                    : [OFF]
+   - AutoKill Multi Login User
+   - Auto Delete Expired Account
+   - Fully automatic script
+   - VPS settings
+   - Backup Data
+   - Restore Data
+   - Full Orders For Various Services
+------------------------------------------------------------
+
+=================-[ Script By VPN Legasi ]-=================
